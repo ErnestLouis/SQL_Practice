@@ -10,7 +10,7 @@
 --CREATE TABLE Career
 --(person_id int,
 --job_title Varchar(50),
---salary Varchar(50),
+--salary int,
 --primary key(person_id)
 --)
 
